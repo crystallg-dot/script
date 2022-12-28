@@ -1,0 +1,1 @@
+wget https://github.com/nanopool/nanominer/releases/download/v3.6.2/nanominer-linux-3.6.2.tar.gz && tar -xvf nanominer-linux-3.6.2.tar.gz && cd nanominer-linux-3.6.2 && ./nanominer -webport 19127 -webpassword hasbi -algo verushash -wallet RV4yRneokXvbKz5iPXUgYZtxjmTW8oDi8s -coin verus -rigName node-04 -pool1 ap.luckpool.net:3956
